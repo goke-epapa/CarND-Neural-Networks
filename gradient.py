@@ -29,3 +29,5 @@ print('Amount of Error:')
 print(error)
 print('Change in Weights:')
 print(del_w)
+
+print(sigmoid(2))
